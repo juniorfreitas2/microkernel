@@ -1,0 +1,12 @@
+{
+    "name": "junior/microkernel",
+    "authors": [
+        {
+            "name": "junior",
+            "email": "web.juniorfreitas@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/symfony": "^3.3"
+    }
+}
