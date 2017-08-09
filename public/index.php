@@ -1,10 +1,12 @@
 <?php
 
-require __DIR__."/vendor/autoload.php";
-
 use \Symfony\Component\HttpKernel\Kernel;
 use \Symfony\Component\Config\Loader\LoaderInterface;
 use \Symfony\Bundle\FrameworkBundle\Kernel\MicroKernelTrait;
+use \Doctrine\Common\Annotations\AnnotationRegistry;
+
+$loader = require __DIR__ . "/vendor/autoload.php";
+AnnotationRegistry::registerLoader([$loader, 'loadClass']);
 
 class appKernel extends Kernel{
 
@@ -13,7 +15,8 @@ class appKernel extends Kernel{
     public function registerBundles()
     {
         return [
-            new Symfony\Bundle\FrameworkBundle\FrameworkBundle()
+            new Symfony\Bundle\FrameworkBundle\FrameworkBundle(),
+            new \Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle()
         ];
     }
 
@@ -26,13 +29,9 @@ class appKernel extends Kernel{
 
     protected function configureRoutes(\Symfony\Component\Routing\RouteCollectionBuilder $routes)
     {
-        $routes->add('/', 'Kernel:index');
+        $routes->mount('/', $routes->import(__DIR__."/../src/App/Controller/", 'annotation'));
     }
 
-    public function index()
-    {
-        return new \Symfony\Component\HttpFoundation\Response('Hello Microkernel');
-    }
 }
 
     $kernel = new appKernel('dev', true);
