@@ -15,7 +15,8 @@ class AppController extends Controller
      */
     public function index()
     {
-        return new Response("Hello test");
+        $name = 'Junior';
+        return $this->render('index.html.twig', [$name => 'name']);
     }
 
     /**

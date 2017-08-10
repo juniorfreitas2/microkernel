@@ -20,7 +20,7 @@ class AppKernel extends Kernel
         $bundles = [
             new Symfony\Bundle\FrameworkBundle\FrameworkBundle(),
             new \Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
-            //new Symfony\Bundle\TwigBundle\TwigBundle()
+            new Symfony\Bundle\TwigBundle\TwigBundle()
         ];
 
 //        if ($this->getEnvironment() == 'dev') {
@@ -33,7 +33,10 @@ class AppKernel extends Kernel
     protected function configureContainer(ContainerBuilder $c, LoaderInterface $loader)
     {
         $c->loadFromExtension('framework', [
-           'secret' => 'Secret_KEY'
+           'secret' => 'Secret_KEY',
+            'templating' => [
+                'engines' => ['twig']
+            ]
         ]);
 //        $loader->load(__DIR__ . "/config/config.yml");
 //
