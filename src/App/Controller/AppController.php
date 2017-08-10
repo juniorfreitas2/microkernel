@@ -23,6 +23,6 @@ class AppController extends Controller
      */
     public function test()
     {
-        return new Response("Hello test");
+        return new Response("Hello 2");
     }
 }

@@ -23,34 +23,36 @@ class AppKernel extends Kernel
             //new Symfony\Bundle\TwigBundle\TwigBundle()
         ];
 
-        if ($this->getEnvironment() == 'dev') {
-            $bundles[] = new \Symfony\Bundle\WebProfilerBundle\WebProfilerBundle();
-        }
+//        if ($this->getEnvironment() == 'dev') {
+//            $bundles[] = new \Symfony\Bundle\WebProfilerBundle\WebProfilerBundle();
+//        }
 
         return $bundles;
     }
 
     protected function configureContainer(ContainerBuilder $c, LoaderInterface $loader)
     {
-        $loader->load(__DIR__ . "/config/config.yml");
-
-        if (isset($this->bundles['WebProfilerBundle'])) {
-            $c->loadFromExtension('web_profiler', [
-                'toolbar' => true,
-                'intercept_redirects' => false
-            ]);
-        }
+        $c->loadFromExtension('framework', [
+           'secret' => 'Secret_KEY'
+        ]);
+//        $loader->load(__DIR__ . "/config/config.yml");
+//
+//        if (isset($this->bundles['WebProfilerBundle'])) {
+//            $c->loadFromExtension('web_profiler', [
+//                'toolbar' => true,
+//                'intercept_redirects' => false
+//            ]);
+//        }
     }
 
     protected function configureRoutes(RouteCollectionBuilder $routes)
     {
-        $routes->add('/', 'teste';
-        
+
         $routes->mount('/', $routes->import(__DIR__ . "/../src/App/Controller/", 'annotation'));
 
-        if(isset($this->bundles['WebProfilerBundle'])) {
-            $routes->mount('/_wdt', $routes->import('@WebProfilerBundle/Resources/config/routing/wdt.xml'));
-            $routes->mount('/_profiler', $routes->import('@WebProfilerBundle/Resources/config/routing/profiler.xml'));
-        }
+//        if(isset($this->bundles['WebProfilerBundle'])) {
+//            $routes->mount('/_wdt', $routes->import('@WebProfilerBundle/Resources/config/routing/wdt.xml'));
+//            $routes->mount('/_profiler', $routes->import('@WebProfilerBundle/Resources/config/routing/profiler.xml'));
+//        }
     }
 }
