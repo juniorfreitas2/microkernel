@@ -2,70 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3c95a4d-d38b-4b24-a864-cbbc45f84f88" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerDeprecations.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerUrlMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerUrlMatcher.php.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/+/K/R92OeY6PQKRb514LXVNS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/6/H/fGgozXyxao-6Mg9FhBDB" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/6/K/lc66I-9Xk0SXJuygYl4h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/A/4/hqkLTX9Z4TjZa3CN6wtl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/A/H/2FiEuvmdqiKC7zDH4Osk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/A/T/sDyeMZSloAInt0a2mQ1c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/B/L/+ATJNV9EQvvcF3Bc17W3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/B/Q/FuEMPEveCRCbCu0Jfihp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/C/O/XKpwxt-wdvoN22n82ZgK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/D/7/E-4ax2aez2XQZEWeBMtC" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/D/H/D9ehO9tkYTEhnjV6xCsc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/F/P/In3-L9IBZZxCZ90y30Z0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/G/S/u4poL4+Y2JMvrpnHHjiC" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/H/Z/MQtq3MBX8Gb6z0cEM2Wb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/K/G/bB4PgXkw53J-PpeafSVn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/K/Y/tB+MMNpMc1G+sNJvH+Pe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/L/C/BUi4+yf1fTnGnevqO4jF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/M/B/YgiyPa8ZC230RfVvKJjG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/N/H/x0l-v29H-6QFyUD-aejf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/N/O/3O8BJHTUVcx3niRApg8i" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/O/4/iUThJtcOxI7UTWAV-iST" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/O/H/uH-SPFZfPFbtcGFgUA2O" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/O/M/hjnN7Mf1wEWR6MuxhERl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/O/Z/Jm68hWluqsrVTVJfMPAX" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/P/5/0J3aKCat0pVfaxmyBHYB" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/P/G/NgO3V9EIDkh9OfIMhSr8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/P/W/13MBwwOZe59uRipONGE6" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/Q/4/dYGUNWHZcvfMnApoYTzi" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/Q/6/7vg6ANdG0Z-S-O1M+tpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/Q/L/P6ZQzjA98KAcgCpGa8rk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/Q/T/1QemGUXvEKf09Bg6hD-6" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/Q/U/N6mW+MKsU2mvPAV-pohF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/R/U/bjMQ45otxo3OUKfIbVUI" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/S/1/8WBxaLaze-pod6FCgDxX" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/S/E/vyR9HGjl8WRP+UlZHGvN" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/S/G/n2gRg-7YjjyGn+VUT7Xy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/S/V/cxtmB2Cf4gxfEUoHe6IT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/T/B/OSllzmmGY9kTaj3imu+8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/U/C/b9p+6MglnLpfbTPZ9xTG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/U/O/BouuGaIOX-6ryCqdqUh2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/V/H/exK9IGJUekQphDKoHKqz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/V/L/vCTpfoqHmFhsQfaCUkR5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/W/E/5tiiYo6DTg6EMJfFquVE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/W/G/djc9ApAsFcdxu-8qdrDv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/W/J/At3M7sJ5kdhUvHy6kbW+" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/W/U/2p6qskuEc1tFGypDQveb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/W/V/iDZJXL7ZymsAbOh5cMfI" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/W/X/SYc56eqNjYFfDgxm9E3m" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/X/T/Lb6f4hXvzeH80Gha+HG+" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/Y/5/+UH3W+h4s-DcA80DagpW" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/Y/S/i2lxS12PFygP+IeW7Hvo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/pools/vCIW0cSI9S/Z/1/Xlp605FxLADEjgOJ8Ado" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/kernel.php" afterPath="$PROJECT_DIR$/app/kernel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App/Controller/AppController.php" afterPath="$PROJECT_DIR$/src/App/Controller/AppController.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -77,7 +14,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AppController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AppController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App/Controller/AppController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
@@ -93,17 +30,17 @@
         <entry file="file://$PROJECT_DIR$/app/Resources/views/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="112">
-              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+              <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kernel.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="kernel.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/kernel.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="23" column="10" lean-forward="false" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+            <state relative-caret-position="166">
+              <caret line="35" column="2" lean-forward="false" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -120,10 +57,10 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/public/index.php" />
-        <option value="$PROJECT_DIR$/app/kernel.php" />
         <option value="$PROJECT_DIR$/app/views/index.html.twig" />
         <option value="$PROJECT_DIR$/src/App/Controller/AppController.php" />
         <option value="$PROJECT_DIR$/app/Resources/views/index.html.twig" />
+        <option value="$PROJECT_DIR$/app/kernel.php" />
       </list>
     </option>
   </component>
@@ -179,6 +116,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microkernel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microkernel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -281,17 +236,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1502293638540</updated>
-      <workItem from="1502293653796" duration="6796000" />
+      <workItem from="1502293653796" duration="6989000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6796000" />
+    <option name="totallyTimeSpent" value="6989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="30" width="1366" height="738" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -345,14 +301,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/kernel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="23" column="10" lean-forward="false" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -364,7 +312,15 @@
     <entry file="file://$PROJECT_DIR$/app/Resources/views/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -376,6 +332,14 @@
           <folding>
             <element signature="e#36#95#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="35" column="2" lean-forward="false" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
