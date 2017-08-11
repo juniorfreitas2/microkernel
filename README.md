@@ -1,19 +1,22 @@
-#MicroKernelTrait
+<h2>MicroKernelTrait</h2>
 
-O MicroKernelTrait permite que você crie um aplicativo Symfony totalmente funcional em apenas um arquivo. Ele permite que você comece com um pequeno aplicativo e, em seguida, adicione recursos e estrutura como você precisa. Seu objetivo é dar-lhe o poder de escolher seus feixes e estrutura.
+<p>O MicroKernelTrait permite que você crie um aplicativo Symfony totalmente funcional em apenas um arquivo. Ele permite que você comece com um pequeno aplicativo e, em seguida, adicione recursos e estrutura como você precisa. Seu objetivo é dar-lhe o poder de escolher seus feixes e estrutura.</p>
 
-#Rotas e controllers
-    /**
-     * @Route("/")
-     */
+<h2>Rotas e controllers</h2>
+
+    @Route("/")
+     
     public function index()
     {
         $name = 'Junior';
         return $this->render('index.html.twig', [$name => 'name']);
     }
-#Uso
+<h2>Uso</h2>
+
     php -S localhost:8000 -t public
-#Importe outros componentes em:
+
+<h2>Importe outros componentes em:</h2>
+    
     App
         -kernel.php
         
